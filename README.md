@@ -1,7 +1,7 @@
-#Instrucciones:
+# Instrucciones:
 Configuración Inicial:
 
-#Agrega la clase .hide-listing a los elementos que deseas ocultar inicialmente.
+# Agrega la clase .hide-listing a los elementos que deseas ocultar inicialmente.
 Configura el botón de filtro con el ID #btn_filtro (En este caso Btn de remover filtros de Jetengine)
 Personalización:
 
